@@ -1,4 +1,4 @@
-# GISRUK LIVERPOOL 2022
+# GISRUK 2022 LIVERPOOL
 
 Slides for "Exploring the Spatial Disparities in Gambling Risk and Vulnerability."
 
