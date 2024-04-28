@@ -2,4 +2,4 @@
 
 Slides for "Unveiling Online Gambling Behaviour: A Descriptive Analysis of Consumer Data."
 
-Please, refer to the slides.pdf file.
+Please, refer to the `slides.pdf` file.
